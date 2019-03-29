@@ -1,0 +1,28 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 明史
+#+DATE: 2019-03-29 20:49:09.468703
+#+PROPERTY: ID KR2a0038
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: WITNESS WYG    
+#+PROPERTY: JUAN 260
+<pb:KR2a0038_WYG_260-1a>¶
+　　欽定四庫全書¶
+¶
+　　明史卷一百八十八考證¶
+¶
+　　周璽傳明年擢順天府丞　(臣)黄夀齡按擢順天府丞¶
+史未詳其原委考獻徵錄云時瑾擅權惡璽耿直乃¶
+陞是職實則抑之也謹識¶
+¶
+¶
+¶
+<pb:KR2a0038_WYG_260-1b>¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+　　明史卷一百八十八考證¶
+¶

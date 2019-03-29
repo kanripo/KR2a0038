@@ -1,0 +1,130 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 明史
+#+DATE: 2019-03-29 20:49:08.459494
+#+PROPERTY: ID KR2a0038
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: WITNESS WYG    
+#+PROPERTY: JUAN 111
+<pb:KR2a0038_WYG_111-1a>¶
+　　欽定四庫全書¶
+¶
+　　明史卷一百十一¶
+¶
+　　大學士張廷玉等奉　敕修¶
+¶
+　　表第十二¶
+¶
+　　七卿年表¶
+¶
+　　七卿前史無表也曷為表明太祖十三年罷丞相政歸¶
+六部部權重也洪宣以後閣體既尊而權亦漸重於是¶
+閣部相持凡廷推考察各騁意見以營其私而黨局分¶
+<pb:KR2a0038_WYG_111-1b>¶
+焉科道庶僚乗其間隙參奏紛挐馴至神宗厭其囂聒¶
+置而不論而被劾多者其人自去逮熹宗朝則正論澌¶
+滅矣莊烈矯之卒不能救二百七十年間七卿之正直¶
+而獨立者若而人偏邪而嫉能者若而人貪庸而媚宰¶
+輔者若而人備列之可以觀世變矣作七卿表自洪武¶
+十三年始成祖遷都南京止設侍郎仁宗乃有尚書都¶
+御史而未備備官自孝宗始其權位重者曰參贊機務¶
+憲宗後乃専屬之兵部然累世承平履其任者惟養清¶
+<pb:KR2a0038_WYG_111-2a>¶
+望而已無闗政本故不具録¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+<pb:KR2a0038_WYG_111-2b>¶
+<pb:KR2a0038_WYG_111-3a>¶
+<pb:KR2a0038_WYG_111-3b>¶
+<pb:KR2a0038_WYG_111-4a>¶
+<pb:KR2a0038_WYG_111-4b>¶
+<pb:KR2a0038_WYG_111-5a>¶
+<pb:KR2a0038_WYG_111-5b>¶
+<pb:KR2a0038_WYG_111-6a>¶
+<pb:KR2a0038_WYG_111-6b>¶
+<pb:KR2a0038_WYG_111-7a>¶
+<pb:KR2a0038_WYG_111-7b>¶
+<pb:KR2a0038_WYG_111-8a>¶
+<pb:KR2a0038_WYG_111-8b>¶
+<pb:KR2a0038_WYG_111-9a>¶
+<pb:KR2a0038_WYG_111-9b>¶
+<pb:KR2a0038_WYG_111-10a>¶
+<pb:KR2a0038_WYG_111-10b>¶
+<pb:KR2a0038_WYG_111-11a>¶
+<pb:KR2a0038_WYG_111-11b>¶
+<pb:KR2a0038_WYG_111-12a>¶
+<pb:KR2a0038_WYG_111-12b>¶
+<pb:KR2a0038_WYG_111-13a>¶
+<pb:KR2a0038_WYG_111-13b>¶
+<pb:KR2a0038_WYG_111-14a>¶
+<pb:KR2a0038_WYG_111-14b>¶
+<pb:KR2a0038_WYG_111-15a>¶
+<pb:KR2a0038_WYG_111-15b>¶
+<pb:KR2a0038_WYG_111-16a>¶
+<pb:KR2a0038_WYG_111-16b>¶
+<pb:KR2a0038_WYG_111-17a>¶
+<pb:KR2a0038_WYG_111-17b>¶
+<pb:KR2a0038_WYG_111-18a>¶
+<pb:KR2a0038_WYG_111-18b>¶
+<pb:KR2a0038_WYG_111-19a>¶
+<pb:KR2a0038_WYG_111-19b>¶
+<pb:KR2a0038_WYG_111-20a>¶
+<pb:KR2a0038_WYG_111-20b>¶
+<pb:KR2a0038_WYG_111-21a>¶
+<pb:KR2a0038_WYG_111-21b>¶
+<pb:KR2a0038_WYG_111-22a>¶
+<pb:KR2a0038_WYG_111-22b>¶
+<pb:KR2a0038_WYG_111-23a>¶
+<pb:KR2a0038_WYG_111-23b>¶
+<pb:KR2a0038_WYG_111-24a>¶
+<pb:KR2a0038_WYG_111-24b>¶
+<pb:KR2a0038_WYG_111-25a>¶
+<pb:KR2a0038_WYG_111-25b>¶
+<pb:KR2a0038_WYG_111-26a>¶
+<pb:KR2a0038_WYG_111-26b>¶
+<pb:KR2a0038_WYG_111-27a>¶
+<pb:KR2a0038_WYG_111-27b>¶
+<pb:KR2a0038_WYG_111-28a>¶
+<pb:KR2a0038_WYG_111-28b>¶
+<pb:KR2a0038_WYG_111-29a>¶
+<pb:KR2a0038_WYG_111-29b>¶
+<pb:KR2a0038_WYG_111-30a>¶
+<pb:KR2a0038_WYG_111-30b>¶
+<pb:KR2a0038_WYG_111-31a>¶
+<pb:KR2a0038_WYG_111-31b>¶
+<pb:KR2a0038_WYG_111-32a>¶
+<pb:KR2a0038_WYG_111-32b>¶
+<pb:KR2a0038_WYG_111-33a>¶
+<pb:KR2a0038_WYG_111-33b>¶
+<pb:KR2a0038_WYG_111-34a>¶
+<pb:KR2a0038_WYG_111-34b>¶
+<pb:KR2a0038_WYG_111-35a>¶
+<pb:KR2a0038_WYG_111-35b>¶
+<pb:KR2a0038_WYG_111-36a>¶
+<pb:KR2a0038_WYG_111-36b>¶
+<pb:KR2a0038_WYG_111-37a>¶
+<pb:KR2a0038_WYG_111-37b>¶
+<pb:KR2a0038_WYG_111-38a>¶
+<pb:KR2a0038_WYG_111-38b>¶
+<pb:KR2a0038_WYG_111-39a>¶
+<pb:KR2a0038_WYG_111-39b>¶
+<pb:KR2a0038_WYG_111-40a>¶
+<pb:KR2a0038_WYG_111-40b>¶
+<pb:KR2a0038_WYG_111-41a>¶
+<pb:KR2a0038_WYG_111-41b>¶
+<pb:KR2a0038_WYG_111-42a>¶
+<pb:KR2a0038_WYG_111-42b>¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+　　明史卷一百十一¶
+¶
