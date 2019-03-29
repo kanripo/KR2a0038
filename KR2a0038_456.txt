@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 明史
-#+DATE: 2019-03-29 20:49:11.598238
+#+DATE: 2019-03-29 20:49:19.783182
 #+PROPERTY: ID KR2a0038
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 456
 <pb:KR2a0038_WYG_456-1a>¶
 　　欽定四庫全書¶
@@ -15,7 +15,7 @@
 走閩為黄冠棲永泰山中十年太祖聞其賢詔有司¶
 强起之遂自刎死見獻徵錄傳未詳載謹附識¶
 ¶
-　　王紱傳洪武中累戍𦍤州　(臣)方煒按紱以何事坐累¶
+　　王紱傳洪武中累戍朔州　(臣)方煒按紱以何事坐累¶
 獻徵錄諸書均無可考謹識¶
 ¶
 <pb:KR2a0038_WYG_456-1b>¶

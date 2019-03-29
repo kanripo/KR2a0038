@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 明史
-#+DATE: 2019-03-29 20:49:12.202407
+#+DATE: 2019-03-29 20:49:20.449078
 #+PROPERTY: ID KR2a0038
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 497
 <pb:KR2a0038_WYG_497-1a>¶
 　　欽定四庫全書¶
@@ -55,7 +55,7 @@
 聞此又一説謹附識¶
 ¶
 　　門達傳憲宗嗣位綸敗　(臣)方煒按王綸為東宮内侍¶
-甞從侍讀學士錢&KR0270;受學英宗疾綸私詣溥計事及¶
+甞從侍讀學士錢溥受學英宗疾綸私詣溥計事及¶
 英宗崩綸又衰服襲貂憲宗惡之下獄謹附識¶
 ¶
 　　門達傳言官交章論其罪命逮治論斬　(臣)方煒按達¶

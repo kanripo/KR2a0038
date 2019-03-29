@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 明史
-#+DATE: 2019-03-29 20:49:12.808480
+#+DATE: 2019-03-29 20:49:21.070973
 #+PROPERTY: ID KR2a0038
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 539
 <pb:KR2a0038_WYG_539-1a>¶
 　　欽定四庫全書¶
@@ -16,7 +16,7 @@
 ¶
 　　衛拉特𫝊帝既自将撃破布尼雅錫哩及阿嚕台兵¶
 (臣)黄夀齡按通鑑紀事及獻徴錄識大錄云永樂七¶
-年遣給事中郭驥使布尼雅錫哩見殺上大怒&KR0239;淇¶
+年遣給事中郭驥使布尼雅錫哩見殺上大怒勅淇¶
 <pb:KR2a0038_WYG_539-1b>¶
 國公邱福等討之而布尼雅錫哩已為衛拉特所襲¶
 破較𫝊特詳謹識¶

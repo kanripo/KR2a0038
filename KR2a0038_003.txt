@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 明史
-#+DATE: 2019-03-29 20:49:07.711162
+#+DATE: 2019-03-29 20:49:13.100826
 #+PROPERTY: ID KR2a0038
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 3
 <pb:KR2a0038_WYG_003-1a>¶
 　　欽定四庫全書¶
@@ -297,7 +297,7 @@
 沿邊諸軍冬十一月乙丑賜潁國公傅友徳死藍玉既¶
 誅定逺侯王弼與友徳語皆自危帝聞之賜死阿資復¶
 叛西平侯沐春擊敗之十二月乙亥賜定逺侯王弼死¶
-是年烏斯藏琉球&KR0225;朶甘𤓰哇賽瑪爾堪朝鮮入貢安¶
+是年烏斯藏琉球𬗟朶甘𤓰哇賽瑪爾堪朝鮮入貢安¶
 南入貢却之¶
 ¶
 <pb:KR2a0038_WYG_003-16b>¶

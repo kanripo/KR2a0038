@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 明史
-#+DATE: 2019-03-29 20:49:08.722206
+#+DATE: 2019-03-29 20:49:15.504419
 #+PROPERTY: ID KR2a0038
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 157
 <pb:KR2a0038_WYG_157-1a>¶
 　　欽定四庫全書¶
@@ -69,7 +69,7 @@
 陶凱陳基趙壎皆在分科修纂之例舊本作緫裁官¶
 謹當作修纂謹改¶
 ¶
-　　任昻傳文奏毁天下&KR0075;祠正祀典稱號　(臣)章宗瀛按¶
+　　任昻傳文奏毁天下淫祠正祀典稱號　(臣)章宗瀛按¶
 禮儀志所載祀典太祖時應天祀陳喬楊邦又姚興¶
 王洪成都祀李氷文翁張詠均州祀黄覇宻縣祀卓¶
 <pb:KR2a0038_WYG_157-4a>¶

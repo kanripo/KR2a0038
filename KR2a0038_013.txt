@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 明史
-#+DATE: 2019-03-29 20:49:07.749740
+#+DATE: 2019-03-29 20:49:13.257516
 #+PROPERTY: ID KR2a0038
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 13
 <pb:KR2a0038_WYG_013-1a>¶
 　　欽定四庫全書¶
@@ -138,7 +138,7 @@
 琉球哈密烏斯藏入貢¶
 ¶
 　　七年春正月辛巳命京官五品以上及給事中御史各¶
-舉堪州縣者一人丙戌大祀天地於南郊是月立&KR0519;粟¶
+舉堪州縣者一人丙戌大祀天地於南郊是月立漕粟¶
 長運法二月増設蕪湖荆州杭州鈔闗夏四月己巳錄¶
 囚五月辛巳瘞京師暴骸秋八月甲辰振山東浙江水¶
 <pb:KR2a0038_WYG_013-8a>¶

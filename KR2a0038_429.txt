@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 明史
-#+DATE: 2019-03-29 20:49:11.244900
+#+DATE: 2019-03-29 20:49:19.387316
 #+PROPERTY: ID KR2a0038
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 429
 <pb:KR2a0038_WYG_429-1a>¶
 　　欽定四庫全書¶
@@ -531,7 +531,7 @@
 順治二年四月揚州告急命澤清等往援而澤清已潛¶
 謀輸欵矣¶
 ¶
-　　大清𢙣其反復磔誅之澤清頗渉文藝好吟咏嘗召客¶
+　　大清悪其反復磔誅之澤清頗渉文藝好吟咏嘗召客¶
 飲酒唱和幕中蓄兩猿以名呼之即至一日宴其故人¶
 子酌酒金甌中甌可容三升許呼猿捧酒跪送客猿狰¶
 <pb:KR2a0038_WYG_429-29b>¶

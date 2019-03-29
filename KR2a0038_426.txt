@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 明史
-#+DATE: 2019-03-29 20:49:11.212281
+#+DATE: 2019-03-29 20:49:19.350831
 #+PROPERTY: ID KR2a0038
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 426
 <pb:KR2a0038_WYG_426-1a>¶
 　　欽定四庫全書¶
@@ -51,7 +51,7 @@
 ¶
 　　太祖髙皇帝寔錄我軍乗勝追擊五十里斬殺無算至平陽¶
 橋堡明總兵劉渠祁秉忠及副將劉徵㕘將黑雲鶴¶
-遊撃李&KR0791;春張明先死焉傳未及茂春明先謹識¶
+遊撃李茂春張明先死焉傳未及茂春明先謹識¶
 滿桂傳桂與崇煥死守　(臣)黄夀齡恭按¶
 ¶
 　　太祖髙皇帝實録軍士奮勇攻擊間明總兵滿桂寧逺道袁¶

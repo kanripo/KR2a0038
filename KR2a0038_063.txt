@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 明史
-#+DATE: 2019-03-29 20:49:08.124753
+#+DATE: 2019-03-29 20:49:14.095767
 #+PROPERTY: ID KR2a0038
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 63
 <pb:KR2a0038_WYG_063-1a>¶
 　　欽定四庫全書¶
@@ -181,7 +181,7 @@
 ¶
 　　四夷舞曲　其一小將軍大明君定宇寰聖恩寛掌江¶
 山東虜西戎北狄南蠻手高擎寶貝盤　其二殿前歡¶
-五雲宫闕連霄漢金光明照眼玉溝金水深潺潺頫&KR0479;¶
+五雲宫闕連霄漢金光明照眼玉溝金水深潺潺頫𩕄¶
 觀趨蹌看儀鑾嚴肅百千般威人心膽寒　其三慶新¶
 <pb:KR2a0038_WYG_063-9a>¶
 年虎豹闗文武班五綵間慶雲朝霞燦黄金殿喜氣增¶

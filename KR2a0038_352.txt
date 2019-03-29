@@ -1,16 +1,16 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 明史
-#+DATE: 2019-03-29 20:49:10.398649
+#+DATE: 2019-03-29 20:49:18.281699
 #+PROPERTY: ID KR2a0038
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 352
 <pb:KR2a0038_WYG_352-1a>¶
 　　欽定四庫全書¶
 ¶
 　　明史卷二百三十四考證¶
 ¶
-　　盧洪春傳洪春　(臣)嚴福按畿輔志洪春一作𣵠州人¶
+　　盧洪春傳洪春　(臣)嚴福按畿輔志洪春一作涿州人¶
 父仲佃為嘉靖三十五年進士謹附考¶
 ¶
 　　盧洪春傳内豎三千人　(臣)嚴福按張學顔傳作内豎¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 明史
-#+DATE: 2019-03-29 20:49:08.967446
+#+DATE: 2019-03-29 20:49:16.019117
 #+PROPERTY: ID KR2a0038
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 195
 <pb:KR2a0038_WYG_195-1a>¶
 　　欽定四庫全書¶
@@ -117,7 +117,7 @@
 我歸路矣於是誘緬人聴賞則往焚其舟大戰一晝¶
 <pb:KR2a0038_WYG_195-5b>¶
 夜賊首已先去賊子思機𤼵在孟牙亦遁去盡俘其¶
-妻拏以還破其賊寨二百餘處&KR0526;夷遂平較史為詳¶
+妻拏以還破其賊寨二百餘處𤏡夷遂平較史為詳¶
 謹識¶
 ¶
 　　蔣貴傳加嵗禄五百石　(臣)方煒按加禄五百石獻徴¶

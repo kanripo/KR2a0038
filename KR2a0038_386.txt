@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 明史
-#+DATE: 2019-03-29 20:49:10.757796
+#+DATE: 2019-03-29 20:49:18.770530
 #+PROPERTY: ID KR2a0038
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 386
 <pb:KR2a0038_WYG_386-1a>¶
 　　欽定四庫全書¶
@@ -63,7 +63,7 @@
 謹附識¶
 ¶
 　　何如寵傳如寵畏體仁六疏辭　(臣)方煒按如寵屡辭¶
-召命給事中黄紹&KR0464;奏從来君子小人不能並立如¶
+召命給事中黄紹杰奏從来君子小人不能並立如¶
 寵徘徊瞻顧則體仁當知所自處矣帝責其率妄謫¶
 之外見孫承澤奉明夢餘録謹附識¶
 ¶

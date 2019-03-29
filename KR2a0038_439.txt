@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 明史
-#+DATE: 2019-03-29 20:49:11.373164
+#+DATE: 2019-03-29 20:49:19.530902
 #+PROPERTY: ID KR2a0038
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 439
 <pb:KR2a0038_WYG_439-1a>¶
 　　欽定四庫全書¶
@@ -354,7 +354,7 @@
 王以邵武貢生李翔為新城知縣翔至禽殺餘黨衆遂¶
 <pb:KR2a0038_WYG_439-18b>¶
 散然民習於亂佃人以田主徴租斛大聚數千人譟縣¶
-庭翔&KR0343;遣義兵三百詭稱鄭彩軍殺亂民明日復斬百¶
+庭翔?遣義兵三百詭稱鄭彩軍殺亂民明日復斬百¶
 餘級亂乃靖彩兵數萬駐新城畏¶
 ¶
 　　大兵遁入闗獨監軍張家玉新城人徐伯昌與翔共守¶

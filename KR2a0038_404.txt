@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 明史
-#+DATE: 2019-03-29 20:49:10.960616
+#+DATE: 2019-03-29 20:49:19.046690
 #+PROPERTY: ID KR2a0038
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 404
 <pb:KR2a0038_WYG_404-1a>¶
 　　欽定四庫全書¶
@@ -16,7 +16,7 @@
 　　楊鶴傳延綏兵中道逃歸甘肅兵亦譁懼誅並合於賊¶
 (臣)嚴福按毛竒齡集是時西撫耿如把以邉兵五¶
 ¶
-　　千勤王赴京兵部調守通又調守𣵠又調守昌平功¶
+　　千勤王赴京兵部調守通又調守涿又調守昌平功¶
 令兵到日不開糧至次日乃開而運兵以連調三日¶
 <pb:KR2a0038_WYG_404-1b>¶
 不得糧餒且譁如把以譁得罪五千人哄然而歸與¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 明史
-#+DATE: 2019-03-29 20:49:10.184162
+#+DATE: 2019-03-29 20:49:17.934836
 #+PROPERTY: ID KR2a0038
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 330
 <pb:KR2a0038_WYG_330-1a>¶
 　　欽定四庫全書¶
@@ -23,7 +23,7 @@
 ¶
 　　盛應期傳四遷至陜西右布政使　(臣)章宗瀛按應期¶
 官陜西時鎮守太監應鑾貪漁公私為應期所裁鑾¶
-怒思中傷之檄使督造絨𦋺費且鉅萬應期乃藉鑾¶
+怒思中傷之檄使督造絨罽費且鉅萬應期乃藉鑾¶
 前後所侵以數萬計示鑾欲奏之鑾惶恐謝事乃已¶
 見識大録謹附識¶
 ¶

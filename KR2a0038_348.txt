@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 明史
-#+DATE: 2019-03-29 20:49:10.358837
+#+DATE: 2019-03-29 20:49:18.227347
 #+PROPERTY: ID KR2a0038
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 348
 <pb:KR2a0038_WYG_348-1a>¶
 　　欽定四庫全書¶
@@ -28,7 +28,7 @@
 ¶
 　　余懋衡傳獨綱在乃教永誣劾咸寕縣知縣滿朝薦(臣)¶
 章宗瀛按是時永誣劾朝薦承懋衡指遮劫貢物帝¶
-怒曰御史酖無恙而朝薦代為報&KR0167;□遂逮之見明¶
+怒曰御史酖無恙而朝薦代為報𣸪□遂逮之見明¶
 <pb:KR2a0038_WYG_348-2a>¶
 實錄謹附識¶
 ¶

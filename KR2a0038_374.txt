@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 明史
-#+DATE: 2019-03-29 20:49:10.624810
+#+DATE: 2019-03-29 20:49:18.591581
 #+PROPERTY: ID KR2a0038
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 374
 <pb:KR2a0038_WYG_374-1a>¶
 　　欽定四庫全書¶
@@ -23,7 +23,7 @@
 ¶
 　　繆昌期傳㑹給事中孫杰承魏忠賢指劾一燝及周嘉¶
 謨　(臣)方煒按是年四月給事霍維華御史安伸等¶
-交章劾一燝帝不問既而維華外轉&KR0464;遂疑一燝屬¶
+交章劾一燝帝不問既而維華外轉杰遂疑一燝屬¶
 嘉謨為之上疏力攻而給事侯震晹御史陳九疇復¶
 劾之一燝四疏乞歸忠賢遂矯㫖允之去見明實録¶
 謹附識¶

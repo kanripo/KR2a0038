@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 明史
-#+DATE: 2019-03-29 20:49:08.065388
+#+DATE: 2019-03-29 20:49:13.943395
 #+PROPERTY: ID KR2a0038
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 54
 <pb:KR2a0038_WYG_054-1a>¶
 　　欽定四庫全書¶
@@ -334,7 +334,7 @@
 奉翼善冠賔祝曰吉月令辰乃加元服懋敬是承永介¶
 景福樂作賔跪進冠興樂止禮部官啟易服皇太¶
 <pb:KR2a0038_WYG_054-18b>¶
-子入幄易&KR0129;服出啟復坐行再加冠禮内侍奉皮¶
+子入幄易𫀆服出啟復坐行再加冠禮内侍奉皮¶
 弁賓祝曰冠禮申舉以成令徳敬慎威儀惟民之¶
 式冠畢入帷易皮弁服舄出啟復坐行三加冠¶
 禮内侍奉冕旒賔祝曰章服咸加飭敬有䖍永¶

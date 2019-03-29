@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 明史
-#+DATE: 2019-03-29 20:49:10.686467
+#+DATE: 2019-03-29 20:49:18.674443
 #+PROPERTY: ID KR2a0038
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 380
 <pb:KR2a0038_WYG_380-1a>¶
 　　欽定四庫全書¶
@@ -38,7 +38,7 @@
 　　李繼貞傳坐小誤貶三秩　(臣)黄夀齡按坐小誤貶三¶
 秩史未詳何事他書亦無可考謹職¶
 ¶
-　　方震孺傳中官張&KR0747;劉朝被訟　(臣)黄夀齡按張&KR0747;劉¶
+　　方震孺傳中官張曄劉朝被訟　(臣)黄夀齡按張曄劉¶
 朝被訟史未詳何事他書亦無可考謹識¶
 ¶
 　　徐從治傳(余大成附)又以事忤魏忠賢削籍歸　(臣)黄¶

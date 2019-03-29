@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 明史
-#+DATE: 2019-03-29 20:49:11.826449
+#+DATE: 2019-03-29 20:49:20.041330
 #+PROPERTY: ID KR2a0038
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 473
 <pb:KR2a0038_WYG_473-1a>¶
 　　欽定四庫全書¶
@@ -177,7 +177,7 @@
 <pb:KR2a0038_WYG_473-9b>¶
 士也亦與二子懋賞懋官俱縊死又有周姓者悲憤槌¶
 胸嘔血數升而死而柏鄉人郝奇遇居京師聞變謂妻¶
-曰我欲死難汝能之乎妻曰能遂先死奇遇&KR0287;畢服藥¶
+曰我欲死難汝能之乎妻曰能遂先死奇遇瘞畢服藥¶
 死¶
 ¶
 　　許琰字玉仲吳縣人幼有至性嘗刲臂療父疾為諸生¶

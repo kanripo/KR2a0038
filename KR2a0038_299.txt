@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 明史
-#+DATE: 2019-03-29 20:49:09.823296
+#+DATE: 2019-03-29 20:49:17.490105
 #+PROPERTY: ID KR2a0038
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 299
 <pb:KR2a0038_WYG_299-1a>¶
 　　明史卷二百八¶
@@ -27,7 +27,7 @@
 ¶
 　　鄭自璧　　　　　　　戚　賢¶
 ¶
-　　劉　繪(子黄裳)　　　　錢　&KR0340;¶
+　　劉　繪(子黄裳)　　　　錢　薇¶
 ¶
 　　洪　垣(方　瓘吕　懐)　　　　周思兼¶
 ¶

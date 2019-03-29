@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 明史
-#+DATE: 2019-03-29 20:49:12.262208
+#+DATE: 2019-03-29 20:49:20.512443
 #+PROPERTY: ID KR2a0038
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 501
 <pb:KR2a0038_WYG_501-1a>¶
 　　欽定四庫全書¶
@@ -27,7 +27,7 @@
 孟科與此互異¶
 ¶
 　　張獻忠傳文燦受其降　(臣)嚴福按綏㓂紀略獻忠既¶
-降文燦責賂黄金蹏&KR1153;千珠琲盈斗他&KR0606;貨累萬萬¶
+降文燦責賂黄金蹏&KR1153;千珠琲盈斗他瓌貨累萬萬¶
 <pb:KR2a0038_WYG_501-2a>¶
 而獻忠偏将韓城人薛姓者首輔薛國觀之子姪行¶
 也走一騎出入國觀府中且徧見權貴人自國觀以¶

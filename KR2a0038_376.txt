@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 明史
-#+DATE: 2019-03-29 20:49:10.644046
+#+DATE: 2019-03-29 20:49:18.620268
 #+PROPERTY: ID KR2a0038
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 376
 <pb:KR2a0038_WYG_376-1a>¶
 　　欽定四庫全書¶
@@ -43,7 +43,7 @@
 ¶
 <pb:KR2a0038_WYG_376-2b>¶
 　　候震暘傳保姆奉聖夫人客氏方擅寵與忠賢及大學¶
-士沈㴶相表裏勢&KR0395;張甚既遣出官熹宗思念流涕¶
+士沈㴶相表裏勢𦦨張甚既遣出官熹宗思念流涕¶
 至日旰不御食遂宣諭復入　(臣)方煒按客氏之出¶
 而復召入也侍郎陳邦瞻御史周宗建皆先後力爭¶
 俱被詰責見明紀事本末謹附識¶

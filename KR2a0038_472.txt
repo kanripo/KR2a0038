@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 明史
-#+DATE: 2019-03-29 20:49:11.811588
+#+DATE: 2019-03-29 20:49:20.026029
 #+PROPERTY: ID KR2a0038
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 472
 <pb:KR2a0038_WYG_472-1a>¶
 　　欽定四庫全書¶
@@ -338,7 +338,7 @@
 ¶
 　　賜諡俱另載卷末謹識¶
 ¶
-　　丁泰運𫝊(尚大倫等附)&KR0257;將榆林王榮及其子師易皆¶
+　　丁泰運𫝊(尚大倫等附)𠫭將榆林王榮及其子師易皆¶
 死之　(臣)方煒按王師易¶
 ¶
 　　賜祀忠義祠謹識¶
